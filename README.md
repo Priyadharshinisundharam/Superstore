@@ -16,3 +16,5 @@ The dataset (`Superstore.csv`) contains **9,994 records** and **21 fields**, inc
 - **MySQL** – for writing queries and performing analysis
 - **PowerBI** - for Visualization and create the dashboard
 
+## PowerBI Dashboard
+![image](https://github.com/user-attachments/assets/c9e01404-69e3-445c-9ca3-91973b60a216)
